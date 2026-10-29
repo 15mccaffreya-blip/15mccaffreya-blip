@@ -12,16 +12,16 @@
      @%.     *@    .+:  * +*#:-:% +@@@+:   # %          . Languages.Programming: ............................. HTML, CSS, JS
      *  .    @% @%       =+   #  :#:    :  *=@          . Languages.Real: ........... English[Native], Russian[Intermediate]
      @    .                                .+@          .
-     @        :*###+       .=%%%=     .     +@          . Hobbies: .............. Personal_Engineering_Projects, Motorcycles
-     @                     .            .   -@          . Hobbies: ............................ Automation_&_Logistics_Games
+     @        :*###+       .=%%%=     .     +@          . Projects: ...................... Axial_Flux_Actuator, QDD_Actuator
+     @                     .            .   -@          . Projects: ............. Biomimetic_Robot_Dog, FOC_Motor_Controller
      #                   -*         :       .@          .
-     =     :@:#%%- .      :    :##+ .       .@          Contacts+----------------------------------------------------------+
-     +               .    :.                 %#         . Email: .................................... 15mccaffreya@gmail.com
-     =             ..      -..               +:         . Linkedin: ............................. andrew-mccaffrey-698918294
-     :                     .-                -          . Website: ...................................... www.amccaffrey.net
-     :                       -               +          .
-     +             .@@--=@@  @              .%          .
-                   :-  :                    =+          .
+     =     :@:#%%- .      :    :##+ .       .@          . Hobbies: .............. Personal_Engineering_Projects, Motorcycles
+     +               .    :.                 %#         . Hobbies: ............................ Automation_&_Logistics_Games
+     =             ..      -..               +:         .
+     :                     .-                -          Contacts+----------------------------------------------------------+
+     :                       -               +          . Email: .................................... 15mccaffreya@gmail.com
+     +             .@@--=@@  @              .%          . Linkedin: ............................. andrew-mccaffrey-698918294
+                   :-  :                    =+          . Website: ...................................... www.amccaffrey.net
       -                                     -=          .
                       .  =+:   ....         **          .
       :         %#*+=-===--*---            -.           .
